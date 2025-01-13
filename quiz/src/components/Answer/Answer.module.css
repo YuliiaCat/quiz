@@ -1,0 +1,18 @@
+
+.text {
+  width: 100%;
+  background-color: #d3d3d3;
+  padding: 10px;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.isCorrect,
+.nonCorrect {
+  color: #ffffff;
+  background-color: #008000;
+}
+
+.nonCorrect {
+  background-color: #da0a0a;
+}

@@ -1,0 +1,13 @@
+.box {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d3d3d3;
+  border-radius: 50%;
+}
+
+.isCorrect {
+  background-color: #008000;
+}
